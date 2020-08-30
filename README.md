@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, I'm Antonio :wave:
 
-<!--
-**crashoverride91/crashoverride91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Web Developer Padawan :octocat: and scrum lover! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- :computer: I'm currently working on my personal portfolio website.
+-  :book:I'm currently learning Javascript advanced, Laravel's app with db, frontend frameworks and libraries.
+-  :dancers: I'm looking to collaborate on creating web apps.
+-  :mega:Ask me suggests about Frontend World, full stack development.
+-  :snowman:Pronouns: he/him
+-  :zap:Fun fact: ...
+
+
+### Free time activities
+
+- :vhs: Watch movies sci-fi :alien: and superheroes tvshows :dizzy:
+- :headphones: Listening indie and experimental music :musical_keyboard:
+- :newspaper:Read and update me on the technology and start-ups world  :iphone:
+- :video_game: Sometimes play retrogames :space_invader: and Fifa :soccer:
+- Basket :basketball:  | Running :runner: | Biking :bicyclist:|
+- :airplane: Travelling and discovering new places :sunrise_over_mountains:
+- Go to eat a pizza :pizza: with friends :couple:
+
+### Contact
+
+:hatched_chick: [twitter][Twitter] *|*
+:globe_with_meridians: [linkedin][Linkedin] *|*
+
+[twitter]: https://twitter.com/lobbizen991
+[linkedin]:  https://www.linkedin.com/in/antonio-lobusto-fullstackdev0716/
