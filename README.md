@@ -1,6 +1,6 @@
 ### Hi, I'm Antonio :wave:
 
-## I'm a Web Developer Padawan :octocat: and scrum lover! 
+## I'm a Web Developer Padawan :octocat: and Agile Methodologies Scrum lover! 
 
 
 ### About me
